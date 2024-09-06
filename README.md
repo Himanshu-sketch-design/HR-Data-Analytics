@@ -11,3 +11,6 @@ She would like to know what the attrition rete is (% of people who have left)
 She would also like to know if factors like age, years at the comany and income play a part indetermining if people will leave or not.
 <br/>
 <br/>
+
+Link to Dashboard : 
+https://public.tableau.com/app/profile/himanshu.rana8021/viz/Dashboard_17256032368940/Dashboard1?publish=yes
